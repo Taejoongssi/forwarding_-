@@ -1,3 +1,5 @@
+pip install --upgrade pip
+
 import streamlit as st
 # audiorecorder 패키지 추가
 from audiorecorder import audiorecorder
