@@ -47,7 +47,7 @@ platformdirs==3.10.0
 prompt_toolkit==3.0.39
 protobuf==4.24.4
 psutil==5.9.5
-pure_eval==0.3.0
+pure_eval==0.2.2
 pyarrow==17.0.0
 pydantic==2.8.2
 pydantic_core==2.20.1
